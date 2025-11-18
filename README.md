@@ -25,7 +25,7 @@ This keeps your chat cleaner during player teleports without affecting other plu
 
 ## Installation
 
-1. Download the latest JAR from the [Releases](#) section.  
+1. Download the latest JAR from the [Releases](https://github.com/Zbluman09/Hide-Teleport-Messages-Plugin/releases) section.  
 2. Place the JAR in your server’s `plugins` folder.  
 3. Restart or reload your Paper server.  
 4. Teleport messages will now be hidden automatically.

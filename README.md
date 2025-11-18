@@ -1,6 +1,6 @@
 # HideTeleportMessages
 
-**Version:** 1.0  
+**Version:** 2.0  
 **Author:** Zbluman09
 **Minecraft Version:** 1.21.8  
 **Server Type:** Paper  

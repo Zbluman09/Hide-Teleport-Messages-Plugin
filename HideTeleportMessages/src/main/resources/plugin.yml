@@ -1,0 +1,6 @@
+name: HideTeleportMessages
+version: 1.0
+main: com.z.hidetp.HideTeleportMessages
+api-version: "1.21"
+author: Zbluman09
+description: Hides teleport feedback messages while keeping all other command messages.
